@@ -1,0 +1,38 @@
+
+/*
+.rB {
+    background-color: rgb(255,167,167);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    
+}
+*/
+
+
+[id='2'] {
+    color: blue;
+    font-size: 36px;
+
+
+}
+
+
+/* or .rB */ 
+
+p:nth-child(2n+1) {
+    background-color: rgb(255,167,167);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+
+
+.cool {
+    font-size: 24px;
+}
+
+
+#four {
+    background-color: rgb(128,255,128);
+    font-size: 24px;
+    font-weight: bold;
+}
