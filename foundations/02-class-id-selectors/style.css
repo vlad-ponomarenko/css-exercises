@@ -36,3 +36,12 @@ p:nth-child(2n+1) {
     font-size: 24px;
     font-weight: bold;
 }
+
+
+/*
+Possible Improvements: 
+
+.cool class added to font-weight.
+use hsl instead 
+
+*/
